@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "key": "students",
+    "name": "students",
+    "label": "Alumnos"
+  },
+  {
+    "id": 2,
+    "key": "professor",
+    "label": "Profesor",
+    "name": "professor"
+  },
+  {
+    "id": 3,
+    "key": "careers",
+    "label": "Carreras",
+    "name": "careers"
+  },
+  {
+    "id": 4,
+    "key": "course",
+    "label": "Cursos",
+    "name": "course"
+  }
+]
