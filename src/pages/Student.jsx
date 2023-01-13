@@ -22,7 +22,7 @@ const Student = (props) => {
             <Col {...{ span: 24 }}>
               <Row {...{ justify: 'space-between' }}>
                 <Col>
-                  <Title {...{ children: 'Vienvenido Alumno' }} />
+                  <Title {...{ children: 'Bienvenido Alumno' }} />
                 </Col>
                 <Col>
                   <Button

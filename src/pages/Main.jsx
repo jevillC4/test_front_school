@@ -49,7 +49,7 @@ const Main = (props) => {
             <Col {...{ span: 12 }}>
               <Row>
                 <Col {...{ span: 24 }}>
-                  <Title {...{ level: 2, children: 'almunos' }} />
+                  <Title {...{ level: 2, children: 'Almunos' }} />
                 </Col>
                 <Col {...{ span: 24 }}>
                   <Row {...{ justify: 'center' }}>
